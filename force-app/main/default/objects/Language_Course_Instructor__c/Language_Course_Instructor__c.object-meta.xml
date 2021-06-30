@@ -158,7 +158,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Language Course Instructors</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts></searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
